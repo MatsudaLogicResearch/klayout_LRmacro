@@ -14,7 +14,7 @@ module DrawGrid
   layer_no = 200
   dt       = 0
   grid_um  = 5.5
-  width    = 1
+  width    = 0
   # ======================
 
 
